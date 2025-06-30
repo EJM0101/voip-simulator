@@ -3,6 +3,7 @@ import CallSimulator from './components/CallSimulator';
 import SubnettingTool from './components/SubnettingTool';
 import BandwidthCalculator from './components/BandwidthCalculator';
 import ExamTrainer from './components/ExamTrainer';
+import '../styles/style.css';
 
 function App() {
   return (
